@@ -1,2 +1,7 @@
-# jhengdan.github.io
-Wilson｜邱政典 — 3D 產品視覺與動畫作品集
+# Wilson｜邱政典
+
+3D 產品視覺與動畫作品集。
+
+https://jhengdan.github.io/
+
+本儲存庫僅包含網站展示用檔案。圖片與影片之相關權利歸原權利人所有，未授予重製或再利用授權。
